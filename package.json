@@ -42,7 +42,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@prisma/client": "^4.15.0",
+		"@prisma/client": "^5.20.0",
 		"@sveltejs/adapter-node": "^1.2.4",
 		"iconify-icon": "^1.0.7",
 		"svelte-carousel": "^1.0.25",
